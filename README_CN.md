@@ -1,3 +1,4 @@
+[English](README.md) | [中文](README_CN.md)
 # ManiSkill HDF5 到 RLDS 转换工具
 
 本仓库提供一个用于将 ManiSkill replay HDF5 轨迹文件转换为 TFDS/RLDS 格式的工具。转换后的数据可以用于下游机器人学习数据管线，包括 VLA 风格的数据处理流程。
