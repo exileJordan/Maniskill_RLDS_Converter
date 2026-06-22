@@ -1,3 +1,4 @@
+[English](README.md) | [中文](README_CN.md)
 # ManiSkill HDF5 to RLDS Conversion Toolkit
 This repository provides a toolkit for converting ManiSkill replay HDF5 trajectory files into the RLDS format, usable by downstream robot learning pipelines, including VLA-style pipelines.
 
