@@ -54,8 +54,8 @@ conda activate maniskill-rlds
 Clone this repository and enter the project directory:
 
 ```bash
-git clone https://github.com/exileJordan/Convert_Toolkit.git
-cd Convert_Toolkit
+git clone https://github.com/exileJordan/Maniskill_RLDS_Converter.git
+cd Maniskill_RLDS_Converter
 ```
 
 Install dependencies from `requirements.txt`:
